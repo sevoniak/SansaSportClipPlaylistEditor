@@ -7,3 +7,6 @@ This project was written using Visual Studio 2012 for the Window platform.
 
 ## Dependencies
 The library "comctl32.lib" must be linked in order for this to compile.
+
+## Releases
+See the Releases section for a pre-built version for Windows.
